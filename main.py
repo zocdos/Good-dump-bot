@@ -46,4 +46,4 @@ async def fact(ctx):
 
 
 
-bot.run("MTI0MDA3Mzg0MDkxMDkyOTk3MA.Gk-mdQ.MzNYomxte0i-MYGENtPFFhbflldHQfvZhbQkSU")
+bot.run("Inserte Su propio codigo")
